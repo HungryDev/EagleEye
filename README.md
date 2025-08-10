@@ -10,7 +10,7 @@ $$$$$$$$\\$$$$$$$ |\$$$$$$$ |$$ |\$$$$$$$\       $$$$$$$$\\$$$$$$$ |\$$$$$$$\
                    $$\   $$ |                             $$\   $$ |          
                    \$$$$$$  |                             \$$$$$$  |          
                     \______/                               \______/         
-                                                                      
+                                                                      .
 ```
 
 <div align="center">
@@ -188,3 +188,4 @@ $ python3 eagle-eye.py -h
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - The movie Eagle Eye
+
